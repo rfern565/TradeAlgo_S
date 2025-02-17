@@ -8,3 +8,6 @@ Automatically executes trades via Alpaca API.
 Limits trades to 10 per day to manage risk.
 Runs continuously and resets trading count daily.
 Fetches real-time stock data using Yahoo Finance.
+
+Currently working on:
+Optimizing for specific market conditions
